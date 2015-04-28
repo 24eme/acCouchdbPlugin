@@ -31,4 +31,4 @@ Configure database in config/databases.yml
         class: acCouchdbDatabase
         param:
           dsn: http://localhost:5984/
-          dbname: ava
+          dbname: your_database_name
