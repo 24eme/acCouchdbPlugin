@@ -1,7 +1,7 @@
 acCouchdbPlugin
 ===============
 
-An symfony 1.4 ODM plugin for CouchDB build on Doctrine 1.3 philosophy
+A symfony 1.4 ODM plugin for CouchDB build on Doctrine 1.3 philosophy
 
 Installation
 ------------
